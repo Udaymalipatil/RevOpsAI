@@ -1,0 +1,16 @@
+customer_id,region,industry,monthly_revenue,purchases,last_purchase_days,engagement_score
+C001,South,Retail,85000,12,5,92
+C002,North,Finance,42000,7,35,71
+C003,West,Technology,125000,18,8,95
+C004,East,Healthcare,30000,4,75,42
+C005,South,Technology,95000,14,12,88
+C006,North,Retail,28000,5,60,51
+C007,West,Finance,110000,16,10,91
+C008,East,Retail,22000,3,90,35
+C009,South,Healthcare,67000,9,20,76
+C010,North,Technology,145000,21,6,97
+C011,West,Retail,38000,6,48,58
+C012,East,Finance,76000,11,15,82
+C013,South,Technology,118000,17,9,94
+C014,North,Healthcare,25000,3,82,39
+C015,West,Technology,132000,19,7,96
